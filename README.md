@@ -10,16 +10,45 @@
 
 | Браузер | Ссылка |
 |---------|--------|
-| **Chrome** | [Установить из Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) |
-| **Firefox** | [Установить из Firefox Add-ons](https://addons.mozilla.org/firefox/addon/tampermonkey/) |
-| **Edge** | [Установить из Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) |
-| **Safari** | [Установить из App Store](https://apps.apple.com/app/tampermonkey/id1482490089) (платно) |
-| **Opera** | [Установить из Opera Addons](https://addons.opera.com/extensions/details/tampermonkey-beta/) |
+| **Chrome** | [Установить](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) |
+| **Firefox** | [Установить](https://addons.mozilla.org/firefox/addon/tampermonkey/) |
+| **Edge** | [Установить](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) |
+| **Safari** | [Установить](https://apps.apple.com/app/tampermonkey/id1482490089) |
+| **Opera** | [Установить](https://addons.opera.com/extensions/details/tampermonkey-beta/) |
 
 ---
 
 ## 📜 Шаг 2: Установи скрипт
 
-### Вариант А: Быстрая установка (рекомендуется)
+👉 **[Нажми сюда чтобы установить скрипт](https://www.tampermonkey.net/script_installation.php#url=https://gist.github.com/n1x9s/74edef66dbc0c1d115cac95fbdd1a681/raw/13467b62c44237d1e2ece745e12a6459de1f3ec3/instagram-unfollowers.user.js)**
 
-👉 **[Нажми сюда чтобы установить скрипт](https://www.tampermonkey.net/script_installation.php#url=https://gist.github.com/n1x9s/74edef66dbc0c1d115cac95fbdd1a681/raw/cbfe8be8d90ebebedbbf9838e979532b798f0412/instagram-unfollowers.user.js)**
+> После клика откроется окно Tampermonkey с предложением установить скрипт. Нажми **Install**.
+
+---
+
+## ✅ Шаг 3: Используй
+
+1. Открой [instagram.com](https://instagram.com)
+2. В правом нижнем углу появится **розовая кнопка**
+3. Нажми → дождись загрузки → готово!
+
+---
+
+## 🎯 Возможности
+
+- 📊 Статистика подписок
+- 😒 Список тех, кто не подписан в ответ
+- 🌟 Список фанатов (подписаны на тебя, ты нет)
+- 💾 Сохранить людей от отписки
+- 🚫 Массовая отписка в один клик
+- 📥 Скачать отчёт
+
+---
+
+## ⚠️ FAQ
+
+**Кнопка не появляется** — обнови страницу (F5)
+
+**Ошибка "user_id"** — убедись что залогинен в Instagram
+
+**Instagram заблокировал отписки** — подожди 15-30 минут
