@@ -22,7 +22,7 @@
 
 ### Вариант А: Быстрая установка (рекомендуется)
 
-👉 **[Нажми сюда чтобы установить скрипт](https://gist.github.com/raw/instagram-unfollowers.user.js)**
+👉 **[Нажми сюда чтобы установить скрипт](https://www.tampermonkey.net/script_installation.php#url=https://gist.github.com/n1x9s/74edef66dbc0c1d115cac95fbdd1a681/raw/cbfe8be8d90ebebedbbf9838e979532b798f0412/instagram-unfollowers.user.js)**
 
 > ⚠️ Если ссылка не работает — используй Вариант Б
 
